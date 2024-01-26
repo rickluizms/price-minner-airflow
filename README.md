@@ -1,18 +1,24 @@
 # Automação de ETL de Price Minner Service
 
-![Diagrama de Automação de ETL](diagrama.pdf)
+
 
 ## Automação
 
 O Serviço possui um endpoint para cada processo:
 
-- Extrair Mercado Livre
-- Extrair Magazine Luiza
-- Extrair Amazon (Em Breve)
+- Extrair Dados (Mercado Livre)
+- Extrair Dados (Magazine Luiza)
+- Extrair Dados (Amazon)(Em Breve)
 
 - Transformar Dados (Mercado Livre)
 - Transformar Dados (Magazine Luiza)
 - Transformar Dados (Amazon)
+
+- Carregar Dados (Mercado Livre)
+- Carregar Dados (Magazine Luiza)
+- Carregar Dados (Amazon)
+
+![Diagrama de Automação de ETL](diagrama.png)
 
 ## Objetivo:
 
