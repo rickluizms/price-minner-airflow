@@ -1,6 +1,6 @@
 # Automação de ETL de Price Minner Service
 
-![Diagrama de Automação de ETL]("Diagrama de Automação de ETL.pdf")
+![Diagrama de Automação de ETL](Diagrama de Automação de ETL.pdf)
 
 ## Automação
 
